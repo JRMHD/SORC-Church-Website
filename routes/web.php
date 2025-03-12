@@ -2,6 +2,9 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
+use App\Http\Controllers\PrayerRequestController;
+use App\Http\Controllers\NewsletterController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -25,8 +28,8 @@ Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/blog', function () {
-    return view('blog');
+Route::get('/prayerrequest', function () {
+    return view('prayerrequest');
 });
 
 Route::get('/blog-single', function () {
@@ -54,3 +57,7 @@ Route::get('/header', function () {
 Route::get('/sermons', function () {
     return view('sermons');
 });
+
+Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
+Route::post('/prayer-request', [PrayerRequestController::class, 'store'])->name('prayer.store');
+Route::post('/subscribe', [NewsletterController::class, 'store'])->name('newsletter.subscribe');

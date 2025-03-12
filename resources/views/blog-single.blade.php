@@ -3,7 +3,7 @@
 
 
 <head>
-    <title>Wisdom - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Blog | Springs of Restoration Church - Inspirational & Faith-Based Articles</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 

@@ -3,31 +3,55 @@
 
 
 <head>
-    <title>Wisdom - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Upcoming Church Events | Springs of Restoration Church - Nairobi</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+        content="Join our upcoming church events at Springs of Restoration Church in Nairobi. Worship services, Bible studies, conferences, and community outreach programs.">
+    <meta name="keywords"
+        content="church events, Christian gatherings, worship nights, Bible study, community outreach, Nairobi church events, SORC">
+    <meta name="author" content="Springs of Restoration Church">
+    <link rel="canonical" href="https://sorc.co.ke/events/">
+
+    <!-- Open Graph Meta Tags (For Facebook & Social Sharing) -->
+    <meta property="og:title" content="Upcoming Church Events | Springs of Restoration Church - Nairobi">
+    <meta property="og:description"
+        content="Stay updated with the latest church events at SORC. Join us for worship, conferences, and community outreach programs in Nairobi.">
+    <meta property="og:image" content="https://sorc.co.ke/images/events-thumbnail.jpg">
+    <meta property="og:url" content="https://sorc.co.ke/events/">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card Meta Tags (For Twitter Previews) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Upcoming Church Events | Springs of Restoration Church - Nairobi">
+    <meta name="twitter:description"
+        content="Find out about upcoming worship nights, conferences, and community outreach events at Springs of Restoration Church in Nairobi.">
+    <meta name="twitter:image" content="https://sorc.co.ke/images/events-thumbnail.jpg">
+    <meta name="twitter:site" content="@yourchurchhandle">
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ asset('images/sorc web logo.png') }}" type="image/png">
+
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800" rel="stylesheet">
 
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
-
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
-
     <link rel="stylesheet" href="css/aos.css">
-
     <link rel="stylesheet" href="css/ionicons.min.css">
-
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
-
-
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 
 <body>
 
@@ -43,7 +67,7 @@
                 data-scrollax-parent="true">
                 <div class="col-md-10 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
                     <p class="breadcrumbs mb-2" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span
-                            class="mr-2"><a href="index.html">Home</a></span> <span>Events</span></p>
+                            class="mr-2"><a href="/">Home</a></span> <span>Events</span></p>
                     <h1 class="mb-3 mt-0 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Events
                     </h1>
                 </div>
@@ -58,21 +82,23 @@
                     <div class="row">
                         <div class="col-md-12 d-md-flex">
                             <div class="one-forth ftco-animate">
-                                <h3>Bible Study</h3>
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and
-                                    Consonantia.</p>
+                                <h3>Springs of Restoration Church</h3>
+                                <p>Founded by Shepherd James Khaemba, the vision for the church was well-structured and
+                                    shared in November 2019, leading to the commencement of construction on January 5,
+                                    2020. Since then, we have grown tremendously in making Christ known and discipling
+                                    committed believers.</p>
                             </div>
                             <div class="one-half d-md-flex align-items-md-center ftco-animate">
-                                <div class="countdown-wrap">
+                                {{-- <div class="countdown-wrap">
                                     <p class="countdown d-flex">
                                         <span id="days"></span>
                                         <span id="hours"></span>
                                         <span id="minutes"></span>
                                         <span id="seconds"></span>
                                     </p>
-                                </div>
+                                </div> --}}
                                 <div class="button">
-                                    <p><a href="#" class="btn btn-primary p-3">Events Details</a></p>
+                                    <p><a href="/about" class="btn btn-primary p-3">Church Details</a></p>
                                 </div>
                             </div>
                         </div>
@@ -89,17 +115,17 @@
                     <div class="event-entry d-flex ftco-animate">
                         <div class="meta mr-4">
                             <p>
-                                <span>07</span>
-                                <span>Aug 2018</span>
+                                <span>06</span>
+                                <span>Dec 2019</span>
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Saturday's Bible Reading</a></h3>
-                            <p class="mb-4"><span>9:00am at 456 NC USA</span></p>
+                            <h3 class="mb-2"><a href="events.html">Church Launch</a></h3>
+                            <p class="mb-4"><span>Springs of Restoration Church</span></p>
                             <a href="events.html" class="img mb-4"
                                 style="background-image: url(images/event-1.jpg);"></a>
-                            <p>A small river named Duden flows by their place and supplies it with the necessary
-                                regelialia.</p>
+                            <p>From vision to reality, the church was officially launched and has since experienced
+                                incredible growth.</p>
                         </div>
                     </div>
                 </div>
@@ -108,16 +134,16 @@
                         <div class="meta mr-4">
                             <p>
                                 <span>07</span>
-                                <span>Aug 2018</span>
+                                <span>Aug 2023</span>
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Saturday's Bible Reading</a></h3>
-                            <p class="mb-4"><span>9:00am at 456 NC USA</span></p>
+                            <h3 class="mb-2"><a href="events.html">Achievements in Ministry</a></h3>
+                            <p class="mb-4"><span>Multiple locations & Outreach Programs</span></p>
                             <a href="events.html" class="img mb-4"
                                 style="background-image: url(images/event-2.jpg);"></a>
-                            <p>A small river named Duden flows by their place and supplies it with the necessary
-                                regelialia.</p>
+                            <p>Through God's grace, we have conducted international missions, built a sanctuary, and won
+                                over 1000 souls.</p>
                         </div>
                     </div>
                 </div>
@@ -125,17 +151,17 @@
                     <div class="event-entry d-flex ftco-animate">
                         <div class="meta mr-4">
                             <p>
-                                <span>07</span>
-                                <span>Aug 2018</span>
+                                <span>15</span>
+                                <span>Mar 2024</span>
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Saturday's Bible Reading</a></h3>
-                            <p class="mb-4"><span>9:00am at 456 NC USA</span></p>
+                            <h3 class="mb-2"><a href="events.html">Discipleship & Revival</a></h3>
+                            <p class="mb-4"><span>Church Conferences & Training</span></p>
                             <a href="events.html" class="img mb-4"
                                 style="background-image: url(images/event-3.jpg);"></a>
-                            <p>A small river named Duden flows by their place and supplies it with the necessary
-                                regelialia.</p>
+                            <p>We hold discipleship training, revivals, and impactful worship services to deepen faith
+                                and leadership.</p>
                         </div>
                     </div>
                 </div>
@@ -143,22 +169,22 @@
                     <div class="event-entry d-flex ftco-animate">
                         <div class="meta mr-4">
                             <p>
-                                <span>07</span>
-                                <span>Aug 2018</span>
+                                <span>20</span>
+                                <span>Jun 2024</span>
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Saturday's Bible Reading</a></h3>
-                            <p class="mb-4"><span>9:00am at 456 NC USA</span></p>
+                            <h3 class="mb-2"><a href="events.html">Future Growth & Expansion</a></h3>
+                            <p class="mb-4"><span>Upcoming Projects & Missions</span></p>
                             <a href="events.html" class="img mb-4"
                                 style="background-image: url(images/event-4.jpg);"></a>
-                            A small river named Duden flows by their place and supplies it with the necessary
-                            regelialia.
+                            <p>We continue to expand, including building a mikvah, increasing online outreach, and
+                                hosting new missionaries.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row mt-5">
+            {{-- <div class="row mt-5">
                 <div class="col text-center">
                     <div class="block-27">
                         <ul>
@@ -172,9 +198,10 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </section>
+
 
     @include('footer')
 
