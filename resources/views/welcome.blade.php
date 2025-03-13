@@ -283,19 +283,20 @@
                     <span class="subheading">Current Status</span>
                     <h2 class="mb-4">Springs of Restoration Church Ministries</h2>
                     <p>Our ministries are dedicated to nurturing spiritual growth, fostering community, and spreading
-                        the love of Christ. From men’s and women’s fellowships to youth and children’s ministries, we
+                        the love of Christ. From men's and women's fellowships to youth and children's ministries, we
                         are committed to serving and transforming lives for the glory of God.</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
                     <div class="media block-6 services d-block text-center">
-                        <div class="d-flex justify-content-center">
-                            <div class="icon d-flex justify-content-center mb-3"><span
-                                    class="align-self-center flaticon-group"></span></div>
+                        <!-- Added image on top -->
+                        <div class="mb-4">
+                            <img src="\images\mens.jpg" alt="Men's Ministry" class="img-fluid rounded">
                         </div>
+                        <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Men’s Ministry (Gideon’s)</h3>
+                            <h3 class="heading">Men's Ministry (Gideon's)</h3>
                             <p>Mobilizing men to grow in faith, establish strong Christian families, and actively engage
                                 in the Church while building the Kingdom of God.</p>
                         </div>
@@ -304,12 +305,13 @@
 
                 <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
                     <div class="media block-6 services d-block text-center">
-                        <div class="d-flex justify-content-center">
-                            <div class="icon d-flex justify-content-center mb-3"><span
-                                    class="align-self-center flaticon-female"></span></div>
+                        <!-- Added image on top -->
+                        <div class="mb-4">
+                            <img src="\images\womens.jpg" alt="Women's Ministry" class="img-fluid rounded">
                         </div>
+                        <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Women’s Ministry (Deborah’s)</h3>
+                            <h3 class="heading">Women's Ministry (Deborah's)</h3>
                             <p>Empowering women to reach their full potential in Christ, fostering confidence,
                                 fruitfulness, and spiritual growth in every area of life.</p>
                         </div>
@@ -318,10 +320,11 @@
 
                 <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
                     <div class="media block-6 services d-block text-center">
-                        <div class="d-flex justify-content-center">
-                            <div class="icon d-flex justify-content-center mb-3"><span
-                                    class="align-self-center flaticon-young"></span></div>
+                        <!-- Added image on top -->
+                        <div class="mb-4">
+                            <img src="\images\youth.jpg" alt="Youth Ministry" class="img-fluid rounded">
                         </div>
+                        <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">
                             <h3 class="heading">Youth Ministry (Mountain Movers)</h3>
                             <p>Engaging young people with faith-based and developmental programs, helping them grow
@@ -332,12 +335,13 @@
 
                 <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
                     <div class="media block-6 services d-block text-center">
-                        <div class="d-flex justify-content-center">
-                            <div class="icon d-flex justify-content-center mb-3"><span
-                                    class="align-self-center flaticon-baby"></span></div>
+                        <!-- Added image on top -->
+                        <div class="mb-4">
+                            <img src="\images\kids.jpg" alt="Children's Ministry" class="img-fluid rounded">
                         </div>
+                        <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Children’s Ministry</h3>
+                            <h3 class="heading">Children's Ministry</h3>
                             <p>Building a strong spiritual foundation for children, equipping them to grow in
                                 righteousness and become responsible future leaders.</p>
                         </div>
