@@ -292,7 +292,7 @@
                     <div class="media block-6 services d-block text-center">
                         <!-- Added image on top -->
                         <div class="mb-4">
-                            <img src="\images\mens.jpg" alt="Men's Ministry" class="img-fluid rounded">
+                            <img src="\images\men ministry.jpg" alt="Men's Ministry" class="img-fluid rounded">
                         </div>
                         <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">
@@ -307,7 +307,7 @@
                     <div class="media block-6 services d-block text-center">
                         <!-- Added image on top -->
                         <div class="mb-4">
-                            <img src="\images\womens.jpg" alt="Women's Ministry" class="img-fluid rounded">
+                            <img src="\images\woem group.jpg" alt="Women's Ministry" class="img-fluid rounded">
                         </div>
                         <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">
@@ -322,7 +322,7 @@
                     <div class="media block-6 services d-block text-center">
                         <!-- Added image on top -->
                         <div class="mb-4">
-                            <img src="\images\youth.jpg" alt="Youth Ministry" class="img-fluid rounded">
+                            <img src="\images\mountain Youths.jpg" alt="Youth Ministry" class="img-fluid rounded">
                         </div>
                         <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">

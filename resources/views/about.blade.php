@@ -31,7 +31,7 @@
     <meta name="twitter:site" content="@yourchurchhandle">
 
     <!-- Favicon -->
-     <link rel="icon" href="{{ asset('images/sorc web logo.png') }}" type="image/png">
+    <link rel="icon" href="{{ asset('images/sorc web logo.png') }}" type="image/png">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800" rel="stylesheet">
@@ -165,7 +165,8 @@
                                     <p class="mb-5">"Before joining SORC, I was lost and broken. But through the
                                         teachings and prayers of our Shepherd, I have found purpose, direction, and
                                         restoration. This church has truly been a place of healing for me."</p>
-                                    <p class="name">John Mwangi</p>
+                                    <p class="name">Rachel Njega
+                                    </p>
                                     <span class="position">Church Member</span>
                                 </div>
                             </div>
@@ -199,8 +200,8 @@
                                     <p class="mb-5">"I started as just a visitor, but today, I serve as a minister in
                                         SORC. This church has nurtured my faith, empowered me to serve, and given me a
                                         family I never had."</p>
-                                    <p class="name">David Omondi</p>
-                                    <span class="position">Youth Minister</span>
+                                    <p class="name">Cate Mutua</p>
+                                    <span class="position">Entrepreneur </span>
                                 </div>
                             </div>
                         </div>
@@ -215,10 +216,11 @@
                                 <div class="text">
                                     <p class="mb-5">"I was struggling financially and almost gave up on my business,
                                         but through a prophetic word spoken by our Father, my business turned around.
-                                        Today, I am a successful entrepreneur and a living testimony of God's power!"
+                                        Today, I am a successful Minister and a living testimony of God's power!"
                                     </p>
-                                    <p class="name">Rebecca Achieng</p>
-                                    <span class="position">Entrepreneur</span>
+                                    <p class="name">Nahashon Ndung'e
+                                    </p>
+                                    <span class="position">Minister</span>
                                 </div>
                             </div>
                         </div>
@@ -234,8 +236,9 @@
                                     <p class="mb-5">"Through the guidance of our Shepherd and the mentorship I
                                         received in SORC, I have grown spiritually and discovered my calling. My life
                                         has never been the same again."</p>
-                                    <p class="name">James Wekesa</p>
-                                    <span class="position">Minister</span>
+                                    <p class="name">David Lemayian
+                                    </p>
+                                    <span class="position">Youth Minister</span>
                                 </div>
                             </div>
                         </div>
