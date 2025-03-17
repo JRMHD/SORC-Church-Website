@@ -557,7 +557,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="sermons">
-                        <a href="https://www.youtube.com/watch?v=nT0r2PjdInU"
+                        <a href="https://www.facebook.com/share/r/1NfQWiJMiP/"
                             class="img popup-vimeo mb-3 d-flex justify-content-center align-items-center"
                             style="background-image: url(images/sermons-2.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
@@ -565,7 +565,7 @@
                             </div>
                         </a>
                         <div class="text">
-                            <h3><a href="https://www.youtube.com/watch?v=nT0r2PjdInU">Inspirational Message of God</a>
+                            <h3><a href="https://www.facebook.com/share/r/1NfQWiJMiP/">Inspirational Message of God</a>
                             </h3>
                             {{-- <span class="position">Pastor. Joseph Meyer</span> --}}
                         </div>
@@ -573,7 +573,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="sermons">
-                        <a href="https://www.youtube.com/watch?v=j_Qzx3ZRqDk"
+                        <a href="https://www.facebook.com/share/r/1AMF2ER6Wk/"
                             class="img popup-vimeo mb-3 d-flex justify-content-center align-items-center"
                             style="background-image: url(images/sermons-3.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
@@ -581,7 +581,7 @@
                             </div>
                         </a>
                         <div class="text">
-                            <h3><a href="https://www.youtube.com/watch?v=j_Qzx3ZRqDk">Prayers, Presence, and
+                            <h3><a href="https://www.facebook.com/share/r/1AMF2ER6Wk/">Prayers, Presence, and
                                     Provision</a></h3>
                             {{-- <span class="position">Pastor. Dave Zuleger</span> --}}
                         </div>

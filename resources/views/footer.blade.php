@@ -4,8 +4,13 @@
         <div class="row mb-5">
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="logo"><i class="flaticon-cross"><a href="{{ url('/') }}"></i><span>SPRINGS
-                            OF</span><span>RESTORATION CHURCH</span></a></h2>
+                    <h2 class="logo">
+                        <a href="{{ url('/') }}">
+                            <img src="{{ asset('images/logo sorc.png') }}" alt="Springs of Restoration Church"
+                                class="img-fluid" style="max-height: 40px; width: auto;">
+                            <span>SPRINGS OF</span><span>RESTORATION CHURCH</span>
+                        </a>
+                    </h2>
                     <p>This far, the Lord has brought us. Join us as we raise a Kingdom-minded generation that touches
                         heaven and changes the earth.</p>
                 </div>

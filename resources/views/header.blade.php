@@ -1,11 +1,24 @@
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-        <a class="navbar-brand" href="{{ url('/') }}"><i class="flaticon-cross"></i> <span>SPRINGS OF</span>
+        {{-- <a class="navbar-brand" href="{{ url('/') }}"><i class="flaticon-cross"></i> <span>SPRINGS OF</span>
             <span>RESTORATION CHURCH</span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
             aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu
+        </button> --}}
+
+
+        <a class="navbar-brand" href="{{ url('/') }}">
+            <img src="{{ asset('images/logo sorc.png') }}" alt="Springs of Restoration Church" class="img-fluid"
+                style="max-height: 40px; width: auto;">
+            <span>SPRINGS OF</span>
+            <span>RESTORATION CHURCH</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+            aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="oi oi-menu"></span> Menu
         </button>
+
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">

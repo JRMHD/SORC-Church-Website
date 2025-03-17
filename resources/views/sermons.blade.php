@@ -98,7 +98,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="sermons">
-                        <a href="https://www.youtube.com/@springstv2024" target="_blank" rel="noopener noreferrer"
+                        <a href="https://www.facebook.com/share/r/1NfQWiJMiP/" target="_blank" rel="noopener noreferrer"
                             class="img mb-3 d-flex justify-content-center align-items-center"
                             style="background-image: url(images/sermons-2.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
@@ -106,7 +106,7 @@
                             </div>
                         </a>
                         <div class="text">
-                            <h3><a href="https://www.youtube.com/@springstv2024" target="_blank"
+                            <h3><a href="https://www.facebook.com/share/r/1NfQWiJMiP/" target="_blank"
                                     rel="noopener noreferrer">
                                     Inspirational Message of God</a></h3>
                             {{-- <span class="position">Pastor. Joseph Meyer</span> --}}
@@ -117,7 +117,8 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="sermons">
-                        <a href="https://www.youtube.com/@springstv2024" target="_blank" rel="noopener noreferrer"
+                        <a href="https://www.facebook.com/share/r/1A9C6ZqWoi/" target="_blank"
+                            rel="noopener noreferrer"
                             class="img mb-3 d-flex justify-content-center align-items-center"
                             style="background-image: url(images/sermons-3.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
@@ -125,7 +126,7 @@
                             </div>
                         </a>
                         <div class="text">
-                            <h3><a href="https://www.youtube.com/@springstv2024" target="_blank"
+                            <h3><a href="https://www.facebook.com/share/r/1A9C6ZqWoi/" target="_blank"
                                     rel="noopener noreferrer">
                                     Prayers, Presence, and Provision</a></h3>
                             {{-- <span class="position">Dave Zuleger</span> --}}
@@ -155,7 +156,8 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="sermons">
-                        <a href="https://www.youtube.com/@springstv2024" target="_blank" rel="noopener noreferrer"
+                        <a href="https://www.facebook.com/share/r/1AMF2ER6Wk/" target="_blank"
+                            rel="noopener noreferrer"
                             class="img mb-3 d-flex justify-content-center align-items-center"
                             style="background-image: url(images/sermons-5.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
@@ -163,7 +165,7 @@
                             </div>
                         </a>
                         <div class="text">
-                            <h3><a href="https://www.youtube.com/@springstv2024" target="_blank"
+                            <h3><a href="https://www.facebook.com/share/r/1AMF2ER6Wk/" target="_blank"
                                     rel="noopener noreferrer">
                                     Inspirational Message of God</a></h3>
                             {{-- <span class="position">Pastor. Joseph Meyer</span> --}}
@@ -174,7 +176,8 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="sermons">
-                        <a href="https://www.youtube.com/@springstv2024" target="_blank" rel="noopener noreferrer"
+                        <a href="https://www.facebook.com/share/r/1A9C6ZqWoi/" target="_blank"
+                            rel="noopener noreferrer"
                             class="img mb-3 d-flex justify-content-center align-items-center"
                             style="background-image: url(images/sermons-6.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
@@ -182,7 +185,7 @@
                             </div>
                         </a>
                         <div class="text">
-                            <h3><a href="https://www.youtube.com/@springstv2024" target="_blank"
+                            <h3><a href="https://www.facebook.com/share/r/1A9C6ZqWoi/" target="_blank"
                                     rel="noopener noreferrer">
                                     Prayers, Presence, and Provision</a></h3>
                             {{-- <span class="position">Dave Zuleger</span> --}}
