@@ -19,15 +19,22 @@
                 <div class="ftco-footer-widget mb-4 ml-md-5">
                     <h2 class="ftco-heading-2">Quick Links</h2>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
-                        <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><i class="fab fa-youtube"
+                        <li class="ftco-animate"><a href="https://www.facebook.com/Springsrestorationchurch"><span
+                                    class="icon-facebook"></span></a></li>
+
+
+                        <li class="ftco-animate"><a href="https://www.instagram.com/springs.restoration.church/"><span
+                                    class="icon-instagram"></span></a></li>
+                        <li class="ftco-animate"><a href="https://www.youtube.com/@springstv2024"><i
+                                    class="fab fa-youtube"
                                     style="font-size: 20px; display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;"></i></a>
                         </li>
-                        <li class="ftco-animate"><a href="#"><i class="fab fa-tiktok"
+                        <li class="ftco-animate"><a href="https://www.youtube.com/@springstv2024"><i
+                                    class="fab fa-tiktok"
                                     style="font-size: 20px; display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;"></i></a>
                         </li>
+                        <li class="ftco-animate"><a href="https://www.facebook.com/Springsrestorationchurch"><span
+                                    class="icon-twitter"></span></a></li>
                     </ul>
                 </div>
             </div>

@@ -139,7 +139,7 @@
                     <div class="sermons">
                         <a href="https://www.youtube.com/@springstv2024" target="_blank" rel="noopener noreferrer"
                             class="img mb-3 d-flex justify-content-center align-items-center"
-                            style="background-image: url(images/sermons-4.jpg);">
+                            style="background-image: url(images/background1.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
                                 <span class="icon-play"></span>
                             </div>
@@ -176,7 +176,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="sermons">
-                        <a href="https://www.facebook.com/share/r/1A9C6ZqWoi/" target="_blank"
+                        <a href="https://www.facebook.com/share/r/1HeASHx4vu/" target="_blank"
                             rel="noopener noreferrer"
                             class="img mb-3 d-flex justify-content-center align-items-center"
                             style="background-image: url(images/sermons-6.jpg);">
@@ -185,7 +185,7 @@
                             </div>
                         </a>
                         <div class="text">
-                            <h3><a href="https://www.facebook.com/share/r/1A9C6ZqWoi/" target="_blank"
+                            <h3><a href="https://www.facebook.com/share/r/1HeASHx4vu/" target="_blank"
                                     rel="noopener noreferrer">
                                     Prayers, Presence, and Provision</a></h3>
                             {{-- <span class="position">Dave Zuleger</span> --}}

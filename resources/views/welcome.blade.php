@@ -59,7 +59,7 @@
     <!-- END nav -->
 
     <section id="home" class="video-hero js-fullheight"
-        style="height: 700px; background-image: url(images/bg_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
+        style="height: 700px; background-image: url(images/background1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
         data-section="home">
         <div class="overlay js-fullheight"></div>
         <a class="player"
@@ -292,7 +292,7 @@
                     <div class="media block-6 services d-block text-center">
                         <!-- Added image on top -->
                         <div class="mb-4">
-                            <img src="\images\men ministry.jpg" alt="Men's Ministry" class="img-fluid rounded">
+                            <img src="\images\the gedions.jpg" alt="Men's Ministry" class="img-fluid rounded">
                         </div>
                         <!-- Removed icon div here -->
                         <div class="media-body p-2 mt-3">
@@ -543,7 +543,7 @@
                     <div class="sermons">
                         <a href="https://www.youtube.com/watch?v=etdK3WnFX7k"
                             class="img popup-vimeo mb-3 d-flex justify-content-center align-items-center"
-                            style="background-image: url(images/sermons-1.jpg);">
+                            style="background-image: url(images/background1.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
                                 <span class="icon-play"></span>
                             </div>
