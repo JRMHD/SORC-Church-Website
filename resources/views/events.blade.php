@@ -59,7 +59,7 @@
     <!-- END nav -->
 
     <section id="home" class="video-hero js-fullheight"
-        style="height: 700px; background-image: url(images/bg_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
+        style="height: 700px; background-image: url(images/aboutpic.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
         data-section="home">
         <div class="overlay js-fullheight"></div>
         <div class="container">
@@ -120,10 +120,9 @@
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Church Launch</a></h3>
+                            <h3 class="mb-2"><a href="/contact">Church Launch</a></h3>
                             <p class="mb-4"><span>Springs of Restoration Church</span></p>
-                            <a href="events.html" class="img mb-4"
-                                style="background-image: url(images/event-1.jpg);"></a>
+                            <a href="/contact" class="img mb-4" style="background-image: url(images/event-1.jpg);"></a>
                             <p>From vision to reality, the church was officially launched and has since experienced
                                 incredible growth.</p>
                         </div>
@@ -138,9 +137,9 @@
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Achievements in Ministry</a></h3>
+                            <h3 class="mb-2"><a href="/contact">Achievements in Ministry</a></h3>
                             <p class="mb-4"><span>Multiple locations & Outreach Programs</span></p>
-                            <a href="events.html" class="img mb-4"
+                            <a href="/contact" class="img mb-4"
                                 style="background-image: url(images/event-2.jpg);"></a>
                             <p>Through God's grace, we have conducted international missions, built a sanctuary, and won
                                 over 1000 souls.</p>
@@ -156,9 +155,9 @@
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Discipleship & Revival</a></h3>
+                            <h3 class="mb-2"><a href="/contact">Discipleship & Revival</a></h3>
                             <p class="mb-4"><span>Church Conferences & Training</span></p>
-                            <a href="events.html" class="img mb-4"
+                            <a href="/contact" class="img mb-4"
                                 style="background-image: url(images/event-3.jpg);"></a>
                             <p>We hold discipleship training, revivals, and impactful worship services to deepen faith
                                 and leadership.</p>
@@ -174,9 +173,9 @@
                             </p>
                         </div>
                         <div class="text">
-                            <h3 class="mb-2"><a href="events.html">Future Growth & Expansion</a></h3>
+                            <h3 class="mb-2"><a href="/contact">Future Growth & Expansion</a></h3>
                             <p class="mb-4"><span>Upcoming Projects & Missions</span></p>
-                            <a href="events.html" class="img mb-4"
+                            <a href="/contact" class="img mb-4"
                                 style="background-image: url(images/event-4.jpg);"></a>
                             <p>We continue to expand, including building a mikvah, increasing online outreach, and
                                 hosting new missionaries.</p>

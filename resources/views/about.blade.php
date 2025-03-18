@@ -58,7 +58,7 @@
     <!-- END nav -->
 
     <section id="home" class="video-hero js-fullheight"
-        style="height: 700px; background-image: url(images/background1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
+        style="height: 700px; background-image: url(images/aboutpic.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
         data-section="home">
         <div class="overlay js-fullheight"></div>
         <div class="container">
@@ -386,11 +386,26 @@
                     </div>
                 </div>
 
+
+
+                <!-- Bishop Mbagaya -->
+                <div class="col-md-6 ftco-animate" style="margin-bottom: 40px;">
+                    <div
+                        style="background-color: #f8f9fa; padding: 25px; border-left: 4px solid #fd7e14; border-radius: 5px;">
+                        <h3 style="color: #333; font-weight: 600; margin-bottom: 15px;">3. BISHOP MBAGAYA</h3>
+                        <p style="color: #666; line-height: 1.7;">Our Bishop, the father to our father, Dr. Julius
+                            Mbagaya. Once again, we come to this very
+                            special time of the year...</p>
+                        <p style="color: #666; line-height: 1.7;">We want to appreciate you bishop for allowing your
+                            son Shepherd James Khaemba to be our father.
+                        </p>
+                    </div>
+                </div>
                 <!-- Bishop Timothy -->
                 <div class="col-md-6 ftco-animate" style="margin-bottom: 40px;">
                     <div
                         style="background-color: #f8f9fa; padding: 25px; border-left: 4px solid #fd7e14; border-radius: 5px;">
-                        <h3 style="color: #333; font-weight: 600; margin-bottom: 15px;">3. BISHOP TIMOTHY</h3>
+                        <h3 style="color: #333; font-weight: 600; margin-bottom: 15px;">4. BISHOP TIMOTHY</h3>
                         <p style="color: #666; line-height: 1.7;">Bishop Timothy, our affiliation to Lighthouse has
                             been of great significance in our ministry...
                         </p>
@@ -400,19 +415,7 @@
                     </div>
                 </div>
 
-                <!-- Bishop Mbagaya -->
-                <div class="col-md-6 ftco-animate" style="margin-bottom: 40px;">
-                    <div
-                        style="background-color: #f8f9fa; padding: 25px; border-left: 4px solid #fd7e14; border-radius: 5px;">
-                        <h3 style="color: #333; font-weight: 600; margin-bottom: 15px;">4. BISHOP MBAGAYA</h3>
-                        <p style="color: #666; line-height: 1.7;">Our Bishop, the father to our father, Dr. Julius
-                            Mbagaya. Once again, we come to this very
-                            special time of the year...</p>
-                        <p style="color: #666; line-height: 1.7;">We want to appreciate you bishop for allowing your
-                            son Shepherd James Khaemba to be our father.
-                        </p>
-                    </div>
-                </div>
+
 
                 <!-- Bishop James -->
                 <div class="col-md-6 ftco-animate" style="margin-bottom: 40px;">

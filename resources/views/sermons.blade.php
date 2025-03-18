@@ -58,7 +58,7 @@
     <!-- END nav -->
 
     <section id="home" class="video-hero js-fullheight"
-        style="height: 700px; background-image: url(images/bg_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
+        style="height: 700px; background-image: url(images/aboutpic.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;"
         data-section="home">
         <div class="overlay js-fullheight"></div>
         <div class="container">
